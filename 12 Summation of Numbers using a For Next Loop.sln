@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "12 Summation of Numbers using a For Next Loop", "12 Summation of Numbers using a For Next Loop.vbproj", "{A3376B21-F05F-4C12-8D8F-59E721DB00D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3376B21-F05F-4C12-8D8F-59E721DB00D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3376B21-F05F-4C12-8D8F-59E721DB00D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3376B21-F05F-4C12-8D8F-59E721DB00D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3376B21-F05F-4C12-8D8F-59E721DB00D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7035DA4D-9B6A-4A63-B095-BE30CE9B02AA}
+	EndGlobalSection
+EndGlobal
